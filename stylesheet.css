@@ -1,0 +1,22 @@
+body
+{
+	background: rgb(104,187,285);
+}
+
+#left-box
+{
+	float: left;
+	background: rgb(9,30,45);
+	color: white;
+}
+
+
+#experiences-box
+{
+	background: white;
+}
+
+#studies-box
+{
+	background: white;
+}
